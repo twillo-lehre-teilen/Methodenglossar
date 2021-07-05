@@ -1,4 +1,4 @@
-<h1 style="color:#000080">Software/h1>
+<h1 style="color:#000080">Software</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 Bitte beachten Sie, dass es sich bei dieser Softwaresammlung lediglich um eine Zusammen-stellung von Anwendungen handelt, die zu bestimmten Zwecken genutzt werden können. Bitte informieren Sie sich vorab über die Nutzungsbedingungen, Datenschutzbestimmungen und Allgemeinen Geschäftsbedingungen, die mit der Software verbunden sind. Die Verant-wortung für die Nutzung liegt bei Ihnen.
