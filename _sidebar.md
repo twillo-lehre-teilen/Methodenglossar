@@ -4,7 +4,7 @@
 
 * [Inhalte](./)
 
-* [Methoden](Methoden_neu.md)
+* [Methoden](Methoden.md)
 
 * [Software](Software.md)
 
