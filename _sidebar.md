@@ -4,24 +4,10 @@
 
 * [Inhalte](./)
 
-* [1: OER erkennen](step1.md)
+* [Methoden](step1.md)
 
-* [2: OER finden und nutzen](step2.md)
+* [Software](step2.md)
 
-* [3: Material aufbereiten](step3.md)
-
-* [4: OER in Systemen abbilden](step4.md)
-
-   * [Ilias](ilias.md)
-   
-   * [Moodle](moodle.md)
-   
-   * [Courseware](courseware.md)
-
-* [5: OER teilen](step5.md)
-
-* [6: Reflexion](step6.md)
-
-* [Quellen](/licenses/sources.md)
+* [Literatur](/licenses/sources.md)
 
 * [Kontakt](/contact/index)
