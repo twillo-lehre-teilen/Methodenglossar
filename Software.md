@@ -7,12 +7,8 @@ Bitte beachten Sie, dass es sich bei dieser Softwaresammlung lediglich um eine Z
   <button class="accordion">Audiorecorder/-editor</button>
   <div class="panel">
     <p>
-      Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
-      <a aria-describedby="Link zum twillo-Portal" href="http://www.twillo.de/" target="_blank">www.twillo.de</a>
-      <figure style="align:middle;">
-        <a href="images/twillo_suche.svg" target="_blank"><img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
-      </figure>
+      Audacity
+      <a aria-describedby="Link zu Audacity" href="http://www.audacityteam.org/" target="_blank">www.audacityteam.org</a>
     </p>
   </div>
   <button class="accordion">Bildbearbeitungs-/Grafiksoftware</button>
