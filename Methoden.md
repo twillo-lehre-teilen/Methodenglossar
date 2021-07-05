@@ -4,103 +4,49 @@
 <div class="infobox">
   <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
-    Im zweiten Schritt erhalten Sie einen Überlick über bestehende Möglichkeiten, um gezielt nach OER zu suchen. In diesem Zuge lernen Sie die wichtigsten Suchmaschinen, Portale und Repositorien für OER kennen. Zudem erhalten Sie Informationen über die Einbindung von CC-lizenzierten Inhalten in Ihre eigenen Werke und erfahren was dabei zu beachten ist. Ziel der Einheit ist es, Ihnen mehr Sicherheit bei der Nachnutzung bestehender OER zu geben.
+    Kurz einführen - welche Methoden ...
     <br><br>
-    <b>Workload: 45 Minuten</b>
+
   </p>
 </div>
 
-# Fundorte und Suchstrategien
 
-Für das Auffinden von OER im Internet können zwei zentrale Hinweise in Bezug auf den <b>Fundort</b> sowie der <b>Suchstrategie</b> gegeben werden. 
-
-<b>Suche über spezielle OER-Portale und -Plattformen:</b> Es bestehen einige Infrastrukturen, die explizit für das Bereitstellen von offen lizenzierten Lehr- und Lernmaterialien konzipiert sind - wie z.B. twillo. Die Bestrebung des Ausbaus solcher sog. OER-Repositorien wird aktuell auf bildungspolitischer Ebene fokussiert und erhält Eingang in die Hochschullehre.
-
-<b>Verwendung von gängigen Suchmaschienen und allgemeinen Plattformen:</b> Auch Plattformen ohne spezifischen OER-Fokus führen Materialien mit offenen Lizenzen. Diese bieten zwar nicht ausschließlich Lehr- oder Lernmaterialien an, dennoch haben sie sich in den letzten Jahren - sicherlich auch aufgrund fehlender OER-Infrastrukturen - als Veröffentlichungsorte für Bildungsmaterialien etabliert.
-
-
-Neben dem Kriterium des Fundortes kann, wie in der Wissenschaftspraxis auch, z.B. in der Datenbankrecherche, systematisch nach offen lizenzierten Materialien gesucht werden. Dies gilt sowohl für die Nutzung gängiger Suchmaschinen, als auch für die Suche in Repositorien. Folgende Suchstrategien lassen sich für eine zielgerichtete Suche nach OER anwenden:
-
-<ul style="list-style-type:none">
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternalis*)
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>Suchoperatoren</b>, die aus Datenbanken und dem Bibliothekswesen bekannt sind: UND/AND/+; oder NICHT/NOT/- sowie ODER/OR
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Verwendung der <b>CC-Filter</b> in Suchmaschinen oder Portalen
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Eingabe des Suchbegriffs + <b>Creative Commons</b> oder speziell der <b>Lizenz</b> (CC 0, CC BY etc.)
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)
-  </li>
-</ul>
-
-Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf eine zielgerichtete OER-Suche aufgeführt
-
-<b>OER-Portale und -Suchmaschinen (Repositorien und Referatorien)</b>
 
 <div>
-  <button class="accordion">twillo</button>
+  <button class="accordion">Ampelfeedback</button>
   <div class="panel">
     <p>
-      Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
-      <a aria-describedby="Link zum twillo-Portal" href="http://www.twillo.de/" target="_blank">www.twillo.de</a>
+      Bei dem Ampelfeedback handelt es sich um eine Methode, die darauf zielt, Meinungen, Sicht-punkte oder Bewertungen einer Gruppe zu einer bestimmten Fragestellung einzuholen. Sie  eignet sich zudem zur Entscheidungsfindung.  Die Teilnehmenden erhalten jeweils eine rote, gelbe und grüne Karte und sollen sich mit dieser zu einer Frage, These oder Annahme positio-nieren.  Die Wahl der grünen Karte, bedeutet Zustimmung oder positive Bewertung, die Wahl der roten Karte drückt Ablehnung oder negative Bewertung aus und die gelbe Karte zeigt Un-entschlossenheit oder Verbesserungsvorschläge an (vgl. Szepansky 2010, wb-web o. J.).
       <figure style="align:middle;">
-        <a href="images/twillo_suche.svg" target="_blank"><img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb. 6: Screenshot der twillo Suchumgebung"/></a>
+        <a href="images/twillo_suche.svg" target="_blank"><img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb.: Ampelbild einfügen?"/></a>
         <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
       </figure>
     </p>
   </div>
-  <button class="accordion">OERSI</button>
+  <button class="accordion">Glossar</button>
   <div class="panel">
     <p>
-      OERSI steht für OER Search Index und ist eine Suchmaschine für offene Bildungsmaterialien, die OER Materialien aus verschiedensten Plattformen und Repositorien auffindbar
-macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
-      <a aria-describedby="Link zum oersi" href="http://oersi.de/" target="_blank">www.oersi.de</a>
+      Bei einem Glossar handelt es sich um ein Verzeichnis/eine Liste, in dem Wörter definiert und erklärt werden. Glossare können selbstständig oder als Anlage zu einem bestimmten Doku-ment stehen (vgl. Bibliographisches Institut 2020).
       <figure style="align:middle;">
-        <a href="images/oersi.svg" target="_blank"><img src="images/oersi.svg" alt="Abb. 7: Screenshot der OERSI Suchumgebung " title="Abb. 7: Screenshot der OERSI Suchumgebung "/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 7: Screenshot der OERSI Suchumgebung </figcaption>
-      </figure>
     </p>
   </div>
-  <button class="accordion">X5GON</button>
+  <button class="accordion">Fischräten-Diagramm</button>
   <div class="panel">
     <p>
-      Bei X5GON handelt es sich um eine Plattform, die OER aus verschiedensten Quellen und Repositorien auffindbar macht.
-      <a aria-describedby="Link zur X5GON Plattform" href="http://discovery.x5gon.org/" target="_blank">discovery.x5gon.org</a>
-      <figure style="align:middle;">
-        <a href="images/x5gon.svg" target="_blank"><img src="images/x5gon.svg" alt="Abb. 8: Screenshot der X5GON Suchumgebung" title="Abb. 8: Screenshot der X5GON Suchumgebung"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 8: Screenshot der X5GON Suchumgebung</figcaption>
-      </figure>
+      Fischgräten-Diagramme (auch Ishikawa- oder Ursache-Wirkungs-Diagramme) dienen der Dar-stellung einer Problemanalyse. Ziel ist es, mögliche Ursachen zu identifizieren, die zu einer Wirkung (einem Problem) geführt haben könnten. Das Diagramm trägt so dazu bei, komplexe Kontexte zu durchdringen, Zusammenhänge darzustellen und zu ordnen (vgl. BMI/BVA 2018, Babtec o.J.) BILD EINFÜGEN Zunächst wird die Problemstellung auf den Fischkopf geschrieben. Anschließend werden in-nerhalb eines Brainstormings Hauptursachen, die das Problem begünstigt haben könnten, gefunden und an den großen Gräten vermerkt. Nebenursachen  werden den Hauptursachen zugeordnet und an feineren Gräten (Verästelungen) notiert (vgl. Hiestand o.J.).
     </p>
   </div>
-  <button class="accordion">OERhörnchen</button>
+  <button class="accordion">Karikatur-Analyse</button>
   <div class="panel">
     <p>
-      OERhörnchen ist eine Suchmaschine für OER Materialien, die gezielt offene Lehr-/Lernmaterialien von ausgewählten Bildungsprojekten auffindbar macht.
-      <a aria-describedby="Link zur OERhörnchen Suchmaschine" href="http://oerhoernchen.de/" target="_blank">www.oerhoernchen.de</a>
-      <figure style="align:middle;">
-        <a href="images/oerhoernchen.svg" target="_blank"><img src="images/oerhoernchen.svg" alt="Abb. 9: Screenshot der OERhörnchen Suchumgebung" title="Abb. 9: Screenshot der OERhörnchen Suchumgebung"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 9: Screenshot der OERhörnchen Suchumgebung</figcaption>
-      </figure>
+      Eine Karikatur stellen einen bestimmten Sachverhalt (z. B. politische, wirtschaftliche oder ge-sellschaftliche Zustände) überspitzt und bissig dar. In der Regel dient sie dazu, auf Problemla-gen, Missstände oder Paradoxien hinzuweisen. Eine Karikatur-Analyse eignet sich insbesondere für den Einstieg in ein neues Themenfeld, da sie dazu beiträgt, das Vorwissen der Lernenden zu aktivieren. Die Analyse gliedert sich in die Schritte Beschreibung, Interpreta-tion, Bewertung/Kommentar und Reflexion/Schlussfolgerung (vgl. Scholz 2018,  Hiestand o.J.). 
     </p>
   </div>
-  <button class="accordion">CCsearch</button>
+  <button class="accordion">Mind-Map</button>
   <div class="panel">
     <p>
-      CCsearch ist eine Suchmaschine für Materialien, die mit Creative Commons Lizenzen ausgezeichnet sind.
-     <a aria-describedby="Link zur CCsearch Suchmaschine" href="http://ccsearch.creativecommons.org/" target="_blank">ccsearch.creativecommons.org</a>
-      <figure style="align:middle;">
-        <a href="images/ccsearch_oer_suche.svg" target="_blank"><img src="images/ccsearch_oer_suche.svg" alt="Abb. 10: Screenshot der CCsearch Suchumgebung" title="Abb. 10: Screenshot der CCsearch Suchumgebung"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 10: Screenshot der CCsearch Suchumgebung</figcaption>
-      </figure>
+      Eine Mind-Map ist eine kreative, flexible und gleichzeitig übersichtliche Form der Darstellung von Gedanken, Ideen und Zusammenhängen. Im Zentrum der „Gedankenlandkarte“ steht das Thema oder ein wichtiger Aspekt. Von diesem ausgehend verzweigen sich weitere Inhalte In dieser Darstellung der Verzweigungen kann man übersichtlich lernen, planen und organisie-ren, auch Referate und Präsentationen strukturieren (vgl. Reich 2017).
+Eine Auswahl an freier Software, die sich speziell zur Erstellung und gemeinsamen Bearbei-tung von Mind-Maps eignet finden Sie hier:
     </p>
   </div>
   <button class="accordion">Wikimedia Commons</button>
@@ -341,61 +287,6 @@ Die Grundlagen zum Nachlesen:
   </div>
 </div>
 
-## Alles klar? Überprüfen Sie Ihr Wissen zur Kenntlichmachung von OER in eigenen Werken anhand der folgenden kleinen Übung:
-
-Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk korrekt nach der TULLU-Regel zitiert, wo haben sich Fehler eingeschlichen?
-
-<iframe src="https://wordwall.net/embed/e6f68854c1574b36bcb959a6aed1b082?themeId=1&templateId=5" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-
-<div>
-  <button class="accordion"><b>Erläuterungen zu den Lösungen</b></button>
-  <div class="panel">
-    <figure style="align:middle;">
-      <a href="images/Falsch1.svg" target="_blank"><img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/></a>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-    </figure>
-    <p>
-      <b>Fehlerhaft!</b>
-      <br><br>
-      In diesem Lizenzhinweis fehlt eine Angabe der <b>Lizenzversion</b>. Außerdem wurde weder ein <b>Link zu dem Lizenztext</b>, noch ein <b>Link zum Ursprungsort</b> der Grafik hinterlegt.
-    </p>
-    <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
-    <figure style="align:middle;">
-      <a href="images/richtig.svg" target="_blank"><img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/></a>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
-    </figure>
-    <p>
-      <b>Korrekt!</b>
-      <br><br>
-      In diesem Beispiel wurde der Lizenzhinweis korrekt gesetzt. Der <b>Titel</b> der Grafik und der <b>Urheber/Rechteinhaber</b> wurden angegeben. Ein Hinweis auf die <b>Lizenz</b> und die <b>Lizenzversion</b> wurden angegeben und <b>Links zum Lizenztext</b> sowie <b>Ursprungsort</b> gesetzt.
-      <br><br>
-      <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b> Da es sich in diesem Beispiel um die <b>Version 4.0 der CC BY Lizenz</b> handelt, bei der die <b>Angabe eines Titels optional</b> ist, wäre folgende Angabe ebenfalls möglich:
-      <br><br>
-      <b><a aria-describedby="Link zu Twillo" href="http://www.twillo.de/">Grafik</a> von twillo, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></b>
-    </p>
-    <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
-    <figure style="align:middle;">
-      <a href="images/falsch2.svg" target="_blank"><img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/></a>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-    </figure>
-    <p>
-      <b>Fehlerhaft!</b>
-      <br><br>
-      In diesem Lizenzhinweis fehlt eine Angabe, um welche <b>Lizenz und Lizenzversion</b> es sich genau handelt. Außerdem fehlt ein <b>Link zu dem Lizenztext</b>.
-    </p>
-  </div>
-</div>
-
-<br>
-
-<div class="infobox">
-  <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
-    <br><br>
-    Die Anwendungsfälle bei der Nachnutzung von OER sind oftmals sehr individuell. Sollten Sie sich unsicher sein, zögern Sie nicht, die*den Urheber*in anzusprechen oder schreiben Sie eine Mail an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Die Welt der OER steht für ein kollaboratives Miteinander - wir helfen Ihnen gern. <br>
-    <br>Kennen Sie schon unseren twillo-thursday? Im Rahmen dieser offenen (digitalen) Sprechstunde stehen wir Ihnen immer donnerstags von 11.45-12.30 Uhr mit Rat und Tat zur Seite.<br><br>
-    Sie finden uns <a aria-describedby="Link zum Big Blue Button Raum für die Sprechstunde" href="https://big.elan-ev.de/b/nor-eye-xhz-6us">hier</a>. Hop in, hop off - eine Anmeldung ist nicht nötig!
-  </p>
-</div>
 
 <script>
   /* accordion script */
