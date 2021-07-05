@@ -20,7 +20,7 @@ Kurz einführen - welche Methoden ...
   <button class="accordion">Fischräten-Diagramm</button>
   <div class="panel">
     <p>
-      Fischgräten-Diagramme (auch Ishikawa- oder Ursache-Wirkungs-Diagramme) dienen der Dar-stellung einer Problemanalyse. Ziel ist es, mögliche Ursachen zu identifizieren, die zu einer Wirkung (einem Problem) geführt haben könnten. Das Diagramm trägt so dazu bei, komplexe Kontexte zu durchdringen, Zusammenhänge darzustellen und zu ordnen (vgl. BMI/BVA 2018, Babtec o.J.) 
+      Fischgräten-Diagramme (auch Ishikawa- oder Ursache-Wirkungs-Diagramme) dienen der Darstellung einer Problemanalyse. Ziel ist es, mögliche Ursachen zu identifizieren, die zu einer Wirkung (einem Problem) geführt haben könnten. Das Diagramm trägt so dazu bei, komplexe Kontexte zu durchdringen, Zusammenhänge darzustellen und zu ordnen (vgl. BMI/BVA 2018, Babtec o.J.) 
       <br>
       <figure>
   <img src="images/Fischgrätdiagramm.svg" alt="ALTERNATIVTEXT" title="Abbildung eines Fischskeletts mit beschrifteten Gräten">
