@@ -29,7 +29,7 @@ for (var i = 0; i < acc.length; i++) {
 }
 </script>
 
-<button class="accordion">Section 1</button>
+<button class="accordion">Methoden</button>
 <div class="panel">
-  <p>Lorem ipsum...</p>
+  <p>Text Text</p>
 </div>
