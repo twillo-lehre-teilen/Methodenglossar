@@ -2,7 +2,7 @@
 
 <br>
 
-* [Übersicht](./)
+* [Inhalte](./)
 
 * [1: OER erkennen](step1.md)
 
