@@ -17,10 +17,6 @@
   <div class="panel">
     <p>
       Bei dem Ampelfeedback handelt es sich um eine Methode, die darauf zielt, Meinungen, Sicht-punkte oder Bewertungen einer Gruppe zu einer bestimmten Fragestellung einzuholen. Sie  eignet sich zudem zur Entscheidungsfindung.  Die Teilnehmenden erhalten jeweils eine rote, gelbe und grüne Karte und sollen sich mit dieser zu einer Frage, These oder Annahme positio-nieren.  Die Wahl der grünen Karte, bedeutet Zustimmung oder positive Bewertung, die Wahl der roten Karte drückt Ablehnung oder negative Bewertung aus und die gelbe Karte zeigt Un-entschlossenheit oder Verbesserungsvorschläge an (vgl. Szepansky 2010, wb-web o. J.).
-      <figure style="align:middle;">
-        <a href="images/twillo_suche.svg" target="_blank"><img src="images/twillo_suche.svg" alt="Abb. 6: Screenshot der twillo Suchumgebung" title="Abb.: Ampelbild einfügen?"/></a>
-        <figcaption style="text-align:center;font-size:14px;">Abb. 6: Screenshot der twillo Suchumgebung</figcaption>
-      </figure>
     </p>
   </div>
   <button class="accordion">Glossar</button>
@@ -96,9 +92,7 @@ Eine Auswahl an freier Software, die sich speziell zur Erstellung und gemeinsame
     <p>
       Eine Zettelwand zielt darauf, Ergebnisse festzuhalten, zu visualisieren und zu clustern. In ei-nem ersten Schritt werden unterschiedliche Themen bestimmt und an der Zettelwand festge-halten. In einem zweiten Schritt erfolgt eine Ideensammlung (z.B. entlang von Leitfragen). Die Ergebnisse der Ideensammlung werden notiert und an der Zettelwand dem jeweils passenden Thema zugeordnet. Sofern die Arbeit mit der Zettelwand in einer Gruppe geschieht, werden die Ideen bei der Zuordnung zu einem Thema kurz erläutert und diskutiert. Kann eine Notiz keinem Thema zugeordnet werden, wird ein neues Thema eröffnet (vgl. Hiestand o.J.).
   </div>
-
-
-
+</div>
 
 <script>
   /* accordion script */
