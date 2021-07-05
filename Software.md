@@ -1,7 +1,7 @@
 <h1 style="color:#000080">Software</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-Bitte beachten Sie, dass es sich bei dieser Softwaresammlung lediglich um eine Zusammen-stellung von Anwendungen handelt, die zu bestimmten Zwecken genutzt werden können. Bitte informieren Sie sich vorab über die Nutzungsbedingungen, Datenschutzbestimmungen und Allgemeinen Geschäftsbedingungen, die mit der Software verbunden sind. Die Verant-wortung für die Nutzung liegt bei Ihnen.
+Bitte beachten Sie, dass es sich bei dieser Softwaresammlung lediglich um eine Zusammenstellung von Anwendungen handelt, die zu bestimmten Zwecken genutzt werden können. Bitte informieren Sie sich vorab über die Nutzungsbedingungen, Datenschutzbestimmungen und Allgemeinen Geschäftsbedingungen, die mit der Software verbunden sind. Die Verant-wortung für die Nutzung liegt bei Ihnen.
 
 <div>
   <button class="accordion">Audiorecorder/-editor</button>
@@ -93,63 +93,6 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       </figure>
     </p>
   </div>
-</div>
-
-
-## Alles klar? Überprüfen Sie Ihr Wissen zur Kenntlichmachung von OER in eigenen Werken anhand der folgenden kleinen Übung:
-
-Starten Sie das Quiz und schauen Sie sich die Bilder genau an. Wo wurde das Werk korrekt nach der TULLU-Regel zitiert, wo haben sich Fehler eingeschlichen?
-
-<iframe src="https://wordwall.net/embed/e6f68854c1574b36bcb959a6aed1b082?themeId=1&templateId=5" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-
-<div>
-  <button class="accordion"><b>Erläuterungen zu den Lösungen</b></button>
-  <div class="panel">
-    <figure style="align:middle;">
-      <a href="images/Falsch1.svg" target="_blank"><img src="images/Falsch1.svg" alt="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/></a>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 27: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-    </figure>
-    <p>
-      <b>Fehlerhaft!</b>
-      <br><br>
-      In diesem Lizenzhinweis fehlt eine Angabe der <b>Lizenzversion</b>. Außerdem wurde weder ein <b>Link zu dem Lizenztext</b>, noch ein <b>Link zum Ursprungsort</b> der Grafik hinterlegt.
-    </p>
-    <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
-    <figure style="align:middle;">
-      <a href="images/richtig.svg" target="_blank"><img src="images/richtig.svg" alt="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel" title="Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel"/></a>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 28: Korrekter Lizenzhinweis nach der TULLU-Regel</figcaption>
-    </figure>
-    <p>
-      <b>Korrekt!</b>
-      <br><br>
-      In diesem Beispiel wurde der Lizenzhinweis korrekt gesetzt. Der <b>Titel</b> der Grafik und der <b>Urheber/Rechteinhaber</b> wurden angegeben. Ein Hinweis auf die <b>Lizenz</b> und die <b>Lizenzversion</b> wurden angegeben und <b>Links zum Lizenztext</b> sowie <b>Ursprungsort</b> gesetzt.
-      <br><br>
-      <i class="fa fa-exclamation-triangle" style="color:black"></i> <b>Wichtig!</b> Da es sich in diesem Beispiel um die <b>Version 4.0 der CC BY Lizenz</b> handelt, bei der die <b>Angabe eines Titels optional</b> ist, wäre folgende Angabe ebenfalls möglich:
-      <br><br>
-      <b><a aria-describedby="Link zu Twillo" href="http://www.twillo.de/">Grafik</a> von twillo, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></b>
-    </p>
-    <hr style="height: 2px; background-color: #0B2161; border: 0;" /> 
-    <figure style="align:middle;">
-      <a href="images/falsch2.svg" target="_blank"><img src="images/falsch2.svg" alt="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel" title="Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel"/></a>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 29: Fehlerhafter Lizenzhinweis nach der TULLU-Regel</figcaption>
-    </figure>
-    <p>
-      <b>Fehlerhaft!</b>
-      <br><br>
-      In diesem Lizenzhinweis fehlt eine Angabe, um welche <b>Lizenz und Lizenzversion</b> es sich genau handelt. Außerdem fehlt ein <b>Link zu dem Lizenztext</b>.
-    </p>
-  </div>
-</div>
-
-<br>
-
-<div class="infobox">
-  <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
-    <br><br>
-    Die Anwendungsfälle bei der Nachnutzung von OER sind oftmals sehr individuell. Sollten Sie sich unsicher sein, zögern Sie nicht, die*den Urheber*in anzusprechen oder schreiben Sie eine Mail an <a href= "support.twillo@tib.eu">support.twillo@tib.eu</a>. Die Welt der OER steht für ein kollaboratives Miteinander - wir helfen Ihnen gern. <br>
-    <br>Kennen Sie schon unseren twillo-thursday? Im Rahmen dieser offenen (digitalen) Sprechstunde stehen wir Ihnen immer donnerstags von 11.45-12.30 Uhr mit Rat und Tat zur Seite.<br><br>
-    Sie finden uns <a aria-describedby="Link zum Big Blue Button Raum für die Sprechstunde" href="https://big.elan-ev.de/b/nor-eye-xhz-6us">hier</a>. Hop in, hop off - eine Anmeldung ist nicht nötig!
-  </p>
 </div>
 
 <script>
