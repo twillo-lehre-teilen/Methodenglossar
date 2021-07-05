@@ -35,6 +35,10 @@ Kurz einführen - welche Methoden ...
     <p>
       Eine Mind-Map ist eine kreative, flexible und gleichzeitig übersichtliche Form der Darstellung von Gedanken, Ideen und Zusammenhängen. Im Zentrum der „Gedankenlandkarte“ steht das Thema oder ein wichtiger Aspekt. Von diesem ausgehend verzweigen sich weitere Inhalte In dieser Darstellung der Verzweigungen kann man übersichtlich lernen, planen und organisie-ren, auch Referate und Präsentationen strukturieren (vgl. Reich 2017).
 Eine Auswahl an freier Software, die sich speziell zur Erstellung und gemeinsamen Bearbeitung von Mind-Maps eignet finden Sie hier:
+      - **Miro** 
+      - **Ziteboard** 
+      - **Invision Freehand**
+      - **Mindmaster**
     </p>
   </div>
   <button class="accordion">Portfolio</button>
