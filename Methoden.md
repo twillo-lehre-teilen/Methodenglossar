@@ -1,16 +1,7 @@
 <h1 style="color:#000080">Methoden</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<div class="infobox">
-  <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
-    <br><br>
-    Kurz einführen - welche Methoden ...
-    <br><br>
-
-  </p>
-</div>
-
-
+Kurz einführen - welche Methoden ...
 
 <div>
   <button class="accordion">Ampelfeedback</button>
