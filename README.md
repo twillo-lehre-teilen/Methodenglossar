@@ -8,7 +8,7 @@ Gern können Sie die Inalte dieser Seite im Rahmen der Lizenz <a aria-describedb
   
 <figure>
   <img src="images/LineArt_person_with_confetti.svg" alt="Abb. "Person with confetti" von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. "Person with confetti" von Merle Zander und twillo, lizenziert unter CC BY (4.0)">
-  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Person with confetti up</i> von Merle Zander und twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Person with confetti</i> von Merle Zander und twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
 
 </center>
