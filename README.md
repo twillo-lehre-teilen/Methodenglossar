@@ -6,8 +6,9 @@ Auf dieser Seite erhalten Sie einen Überblick über die Methoden, die in den di
   
 Gern können Sie die Inalte dieser Seite im Rahmen der Lizenz <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">CC 0 (1.0)</a> nutzen, bearbeiten und erweitern. 
   
-  <figure>
-    <a href="images/LineArt_person_with_confetti.svg" target="_blank"><img src="images/LineArt_person_with_confetti.svg alt="Abb. Person with confetti" title="Person with confetti"/></a>
-      <figcaption style="text-align:center;font-size:14px;"><i>Person with confestti</i> von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/publicdomain/by/4.0/legalcode" target="_blank">CC BY (4.0)</a> CC BY (4.0)</figcaption>
+<figure>
+  <img src="images/LineArt_person_with_confetti.svg" alt="Abb. "Person with confetti" von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. "Person with confetti" von Merle Zander und twillo, lizenziert unter CC BY (4.0)">
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Person with confetti up</i> von Merle Zander und twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
+
 </center>
