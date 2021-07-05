@@ -4,10 +4,10 @@
 <h2>Kurzinfo</h2>
 
 <div>
-  <button class="accordion">1. Getting Started: Installation</button>
+  <button class="accordion">Methoden</button>
   <div class="panel">
        <p>
- Test Text Test
+       Test Text Test
       </p>
   </div>
 </div>
