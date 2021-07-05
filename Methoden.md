@@ -24,7 +24,7 @@ Kurz einführen - welche Methoden ...
       
       <figure>
   <img src="images/Fischgrätdiagramm.svg" alt="ALTERNATIVTEXT" title="Abbildung eines Fischskeletts mit beschrifteten Gräten">
-  <figcaption style="text-align:center;font-size:14px;">Fischgräten Diagramm Britta Beutnagel, lizenziert unter <a aria-label="https://creativecommons.org/publicdomain/zero/1.0/legalcode" href="LINK ZUR LIZENZ" target="_blank">CC 0 4.0</a></figcaption> 
+  <figcaption style="text-align:center;font-size:14px;">Fischgräten Diagramm Britta Beutnagel, lizenziert unter <a aria-label="https://creativecommons.org/publicdomain/zero/1.0/legalcode" href="LINK ZUR LIZENZ" target="_blank">CC 0 1.0</a></figcaption> 
         
       Zunächst wird die Problemstellung auf den Fischkopf geschrieben. Anschließend werden innerhalb eines Brainstormings Hauptursachen, die das Problem begünstigt haben könnten, gefunden und an den großen Gräten vermerkt. Nebenursachen  werden den Hauptursachen zugeordnet und an feineren Gräten (Verästelungen) notiert (vgl. Hiestand o.J.).
     </p>
