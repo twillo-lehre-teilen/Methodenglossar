@@ -8,7 +8,11 @@ Bitte beachten Sie, dass es sich bei dieser Softwaresammlung lediglich um eine Z
   <div class="panel">
     <p>
       Audacity
-      <a aria-describedby="Link zu Audacity" href="http://www.audacityteam.org/" target="_blank">www.audacityteam.org</a>
+      <a aria-describedby="Link zu Audacity" href="http://www.audacityteam.org/" target="_blank">www.audacityteam.org</a><br>
+      AudioMass
+      <a aria-describedby="Link zu AudioMass" href="https://audiomass.co/" target="_blank">www.audiomass.co/</a><br>
+      Ocenaudio
+      <a aria-describedby="Link zu Oceanaudio" href="https://ocenaudio.com/" target="_blank">www.ocenaudio.com/</a>
     </p>
   </div>
   <button class="accordion">Bildbearbeitungs-/Grafiksoftware</button>
