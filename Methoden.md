@@ -3,11 +3,7 @@
 
 <h2>Kurzinfo</h2>
 
-<div>
-  <button class="accordion">Methoden</button>
-  <div class="panel">
-       <p>
-       Test Text Test
-      </p>
-  </div>
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
 </div>
