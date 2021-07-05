@@ -38,7 +38,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       </figure>
     </p>
   </div>
-  <button class="accordion">OERhörnchen</button>
+  <button class="accordion">Screencast-Software</button>
   <div class="panel">
     <p>
       OERhörnchen ist eine Suchmaschine für OER Materialien, die gezielt offene Lehr-/Lernmaterialien von ausgewählten Bildungsprojekten auffindbar macht.
@@ -49,7 +49,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       </figure>
     </p>
   </div>
-  <button class="accordion">CCsearch</button>
+  <button class="accordion">Umfrage-/Wissensabfrage-Tools</button>
   <div class="panel">
     <p>
       CCsearch ist eine Suchmaschine für Materialien, die mit Creative Commons Lizenzen ausgezeichnet sind.
@@ -60,7 +60,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       </figure>
     </p>
   </div>
-  <button class="accordion">Wikimedia Commons</button>
+  <button class="accordion">Videobearbeitungs-Software</button>
   <div class="panel">
     <p>
       Wikimedia Commons ist eine Plattform, auf der offene lizenzierte Inhalte zur Nutzung bereit stehen.
@@ -71,7 +71,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       </figure>
     </p>
   </div>
-  <button class="accordion">SlideWiki</button>
+  <button class="accordion">Videokonferenz-Tools</button>
   <div class="panel">
     <p>
       SlideWiki ist eine Open-Source-Plattform auf der Vorträge und Präsentationen unter einer offenen Lizenz bereitgestellt werden.
