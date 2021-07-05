@@ -2,7 +2,7 @@
 
 <br>
 
-* [Inhalte](./)
+* [Start](./)
 
 * [Methoden](Methoden.md)
 
