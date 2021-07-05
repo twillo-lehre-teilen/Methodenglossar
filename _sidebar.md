@@ -6,7 +6,7 @@
 
 * [Methoden](Methoden.md)
 
-* [Software](step2.md)
+* [Software](Software.md)
 
 * [Literatur](/licenses/sources.md)
 
