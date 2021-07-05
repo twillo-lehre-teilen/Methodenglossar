@@ -29,7 +29,7 @@ Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf e
 <b>OER-Portale und -Suchmaschinen (Repositorien und Referatorien)</b>
 
 <div>
-  <button class="accordion">Audiorecordertwillo</button>
+  <button class="accordion">Audiorecorder/-editor</button>
   <div class="panel">
     <p>
       Twillo ist ein OER-Repositorium für offene Bildungsmaterialien für den Hochschulkontext. Das Portal richtet sich an Hochschullehrende aller Fachbereiche.
