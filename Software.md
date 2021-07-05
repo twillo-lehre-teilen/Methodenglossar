@@ -3,31 +3,6 @@
 
 Bitte beachten Sie, dass es sich bei dieser Softwaresammlung lediglich um eine Zusammen-stellung von Anwendungen handelt, die zu bestimmten Zwecken genutzt werden können. Bitte informieren Sie sich vorab über die Nutzungsbedingungen, Datenschutzbestimmungen und Allgemeinen Geschäftsbedingungen, die mit der Software verbunden sind. Die Verant-wortung für die Nutzung liegt bei Ihnen.
 
-<ul style="list-style-type:none">
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternalis*)
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>Suchoperatoren</b>, die aus Datenbanken und dem Bibliothekswesen bekannt sind: UND/AND/+; oder NICHT/NOT/- sowie ODER/OR
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Verwendung der <b>CC-Filter</b> in Suchmaschinen oder Portalen
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Eingabe des Suchbegriffs + <b>Creative Commons</b> oder speziell der <b>Lizenz</b> (CC 0, CC BY etc.)
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen
-  </li><br>
-  <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)
-  </li>
-</ul>
-
-Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf eine zielgerichtete OER-Suche aufgeführt
-
-<b>OER-Portale und -Suchmaschinen (Repositorien und Referatorien)</b>
-
 <div>
   <button class="accordion">Audiorecorder/-editor</button>
   <div class="panel">
@@ -40,7 +15,7 @@ Im Folgenden sind einige Plattformen sowie ihre Filteroptionen im Hinblick auf e
       </figure>
     </p>
   </div>
-  <button class="accordion">OERSI</button>
+  <button class="accordion">Bildbearbeitungs-/Grafiksoftware</button>
   <div class="panel">
     <p>
       OERSI steht für OER Search Index und ist eine Suchmaschine für offene Bildungsmaterialien, die OER Materialien aus verschiedensten Plattformen und Repositorien auffindbar
@@ -52,7 +27,7 @@ macht. Die Suchmaschine befindet sich aktuell noch in der Beta-Phase.
       </figure>
     </p>
   </div>
-  <button class="accordion">X5GON</button>
+  <button class="accordion">Mind-Mapping-Software</button>
   <div class="panel">
     <p>
       Bei X5GON handelt es sich um eine Plattform, die OER aus verschiedensten Quellen und Repositorien auffindbar macht.
