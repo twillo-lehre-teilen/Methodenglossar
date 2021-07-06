@@ -66,6 +66,11 @@ Bilden Sie zunächst eine Pro- und eine Contra-Gruppe. Setzen Sie sich in Ihrer 
     <p>
       Quizze und Rätsel eignen sich insbesondere, um neu erlerntes Wissen zu prüfen und zu festigen. Zudem stellen sie eine gute Möglichkeit dar, um Lehr-/Lernstettings aufzulockern. Das eigene Entwickeln von Quizzen und Rätseln ermöglicht eine Reflexion des eigenen Wissens und macht zudem Spaß (vgl. Scholz 2018, Hiestand o.J.).
 Eine Auswahl an freier Software, die sich speziell zur Erstellung von Quizzen und/oder Rätseln eignet, finden Sie hier:
+       <ul>
+        <li><a href="https://kahoot.com/" target="_blank">Kahoot!</a></li>
+        <li><a href="https://tedme.com/" target="_blank">Ted ME!</a></li>
+        <li><a href="https://hotpot.uvic.ca/index.php#downloads" target="_blank">Hot Potatoes</a></li>
+</ul>
    </p>
  </div>
   <button class="accordion">Siebensprung</button>
@@ -86,8 +91,13 @@ Neben der Aufführung der These(n), können Thesenpapiere Begründungen und Komm
   <div class="panel">
     <p>
       Wikis sind Systeme, die es ermöglichen Dokumente (oder andere Inhalte) über das Internet mit einer Personengruppe zu teilen und kollaborativ zu bearbeiten. Die Bearbeitung kann hierbei ortsunabhängig und wahlweise synchron oder asynchron erfolgen. Änderungen werden in Echtzeit bei allen am Wiki mitwirkenden Personen sichtbar (vgl. u.a. AG eLEARNiNG o.J.; Cordes 2020; ZfQ 2020)
-Eine Auswahl an freier Software, die sich speziell zur Erstellung und gemeinsamen Bearbei-tung von Dokumenten eignet, finden Sie hier:
+Eine Auswahl an freier Software, die sich speziell zur Erstellung und gemeinsamen Bearbeitung von Dokumenten eignet, finden Sie hier:
       </p>
+   <ul>
+        <li><a href="https://www.google.de/intl/de/docs/about/" target="_blank">Google Docs</a></li>
+        <li><a href="https://www.onlyoffice.com/de/" target="_blank">ONLYOFFICE Docs</a></li>
+        <li><a href="https://etherpad.org" target="_blank">Etherpad</a></li>
+</ul>
  </div>
   <button class="accordion">Zettelwand</button>
   <div class="panel">
