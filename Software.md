@@ -7,11 +7,11 @@ In der Übersicht haben wir Anwendungen für Sie zusammengestellt, die zu bestim
   <button class="accordion">Audiorecorder/-editor</button>
   <div class="panel">
     <p>
-      Audacity
+      <ul><li>Audacity
       <a aria-describedby="Link zu Audacity" href="http://www.audacityteam.org/" target="_blank">http://www.audacityteam.org</a><br>
-      AudioMass
+      <li>AudioMass
       <a aria-describedby="Link zu AudioMass" href="https://audiomass.co/" target="_blank">https://audiomass.co</a><br>
-      Ocenaudio
+      <li>Ocenaudio
       <a aria-describedby="Link zu Oceanaudio" href="https://ocenaudio.com/" target="_blank">https://ocenaudio.com</a>
     </p>
   </div>
