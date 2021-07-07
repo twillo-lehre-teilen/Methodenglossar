@@ -12,90 +12,90 @@ In der Übersicht haben wir Anwendungen für Sie zusammengestellt, die zu bestim
       <li>AudioMass
       <a aria-describedby="Link zu AudioMass" href="https://audiomass.co/" target="_blank">https://audiomass.co</a><br>
       <li>Ocenaudio
-      <a aria-describedby="Link zu Oceanaudio" href="https://ocenaudio.com/" target="_blank">https://ocenaudio.com</a>
+      <a aria-describedby="Link zu Oceanaudio" href="https://ocenaudio.com/" target="_blank">https://ocenaudio.com</a></ul>
     </p>
   </div>
   <button class="accordion">Bildbearbeitungs-/Grafiksoftware</button>
   <div class="panel">
     <p>
-      GIMP
+      <ul><li>GIMP
       <a aria-describedby="Link zu GIMP" href="https://www.gimp.org/" target="_blank">https://www.gimp.org</a><br>
-      Inkscape
+      <li>Inkscape
       <a aria-describedby="Link zu Inkscape" href="https://inkscape.org" target="_blank">https://inkscape.org</a><br>
-      Paint.NET
-      <a aria-describedby="Link zu Pain.NET" href="https://www.getpaint.net/" target="_blank">https://www.getpaint.net</a>
+      <li>Paint.NET
+      <a aria-describedby="Link zu Pain.NET" href="https://www.getpaint.net/" target="_blank">https://www.getpaint.net</a></ul>
     </p>
   </div>
   <button class="accordion">Mind-Mapping-Software</button>
   <div class="panel">
     <p>
-      InVision Freehand
+      <ul><li>InVision Freehand
       <a aria-describedby="Link zu InVision Freehand" href="https://www.invisionapp.com/" target="_blank">https://www.invisionapp.com</a><br>
-      MindMeister
+      <li>MindMeister
       <a aria-describedby="Link zu MindMeister" href="https://www.mindmeister.com" target="_blank">https://www.mindmeister.com</a><br>
-      Miro
+      <li>Miro
       <a aria-describedby="Link zu Miro" href="https://miro.com" target="_blank">https://miro.com</a><br>
-      Ziteboard
-      <a aria-describedby="Link zu Ziteboard" href="https://app.ziteboard.com" target="_blank">https://app.ziteboard.com</a>
+      <li>Ziteboard
+      <a aria-describedby="Link zu Ziteboard" href="https://app.ziteboard.com" target="_blank">https://app.ziteboard.com</a></ul>
     </p>
   </div>
   <button class="accordion">Screencast-Software</button>
   <div class="panel">
     <p>
-      Capture
+      <ul><li>Capture
       <a aria-describedby="Link zu Captura" href="https://www.chip.de/downloads/Captura_120939142.html" target="_blank">https://www.chip.de/downloads/Captura_120939142.html</a><br>
-      OBS
-      <a aria-describedby="Link zu OBS" href="https://obsproject.com/de" target="_blank">https://obsproject.com/de</a><br>
+      <li>OBS
+      <a aria-describedby="Link zu OBS" href="https://obsproject.com/de" target="_blank">https://obsproject.com/de</a><br></ul>
     </p>
   </div>
   <button class="accordion">Umfrage-/Wissensabfrage-Tools</button>
   <div class="panel">
     <p>
-      Hot Potatoes
+      <ul><li>Hot Potatoes
      <a aria-describedby="Link zu Hot Potatoes" href="https://hotpot.uvic.ca/index.php#downloads" target="_blank">https://hotpot.uvic.ca/index.php#downloads</a><br>
-      Kahoot!
+     <li>Kahoot!
      <a aria-describedby="Link zu Kahoot!" href="https://kahoot.com" target="_blank">https://kahoot.com</a><br>
-      Mentimeter
+     <li>Mentimeter
      <a aria-describedby="Link zu Mentimeter" href="https://www.mentimeter.com/" target="_blank">https://www.mentimeter.com/</a><br>
-      PINGO
+     <li>PINGO
      <a aria-describedby="Link zu PINGO" href="https://trypingo.com/de/" target="_blank">https://trypingo.com/de/</a><br>
-      Ted Me
-     <a aria-describedby="Link zu Ted Me" href="https://tedme.com/" target="_blank">https://tedme.com/</a>
+     <li>Ted Me
+     <a aria-describedby="Link zu Ted Me" href="https://tedme.com/" target="_blank">https://tedme.com/</a></ul>
     </p>
   </div>
   <button class="accordion">Videobearbeitungs-Software</button>
   <div class="panel">
     <p>
-      DaVinci Resolve
+      <ul><li>DaVinci Resolve
       <a aria-describedby="Link zu DaVinci Resolve" href="https://www.blackmagicdesign.com/de/products/davinciresolve/" target="_blank">https://www.blackmagicdesign.com/de/products/davinciresolve/</a><br>
-      Shotcut
+      <li>Shotcut
       <a aria-describedby="Link zu Shotcut" href="https://www.shotcut.org" target="_blank">https://www.shotcut.org</a><br>
-      VSDC Free Video Editor 
-      <a aria-describedby="Link zu Shotcut" href="http://www.videosoftdev.com/de" target="_blank">http://www.videosoftdev.com/de</a>
+     <li>VSDC Free Video Editor 
+      <a aria-describedby="Link zu Shotcut" href="http://www.videosoftdev.com/de" target="_blank">http://www.videosoftdev.com/de</a></ul>
     </p>
   </div>
   <button class="accordion">Videokonferenz-Tools</button>
   <div class="panel">
     <p>
-      Microsoft Teams
+      <ul><li>Microsoft Teams
       <a aria-describedby="Link zu Microsoft Teams" href="https://www.microsoft.com/de-de/microsoft-teams/group-chat-software" target="_blank">https://www.microsoft.com/de-de/microsoft-teams/group-chat-software</a><br>
-      Skype
+      <li>Skype
       <a aria-describedby="Link zu Skype" href="https://www.skype.com/de/" target="_blank">https://www.skype.com/de</a><br>
-      Zoom Cloud Meetings
-      <a aria-describedby="Link zu Zoom" href="https://zoom.us/de-de/meetings.html" target="_blank">https://zoom.us/de-de/meetings.html</a>
+      <li>Zoom Cloud Meetings
+      <a aria-describedby="Link zu Zoom" href="https://zoom.us/de-de/meetings.html" target="_blank">https://zoom.us/de-de/meetings.html</a></ul>
     </p>
   </div>
   <button class="accordion">Wiki-Tools</button>
   <div class="panel">
     <p>
-      Etherpad
+      <ul><li>Etherpad
       <a aria-describedby="Link zu Etherpad" href="https://etherpad.org" target="_blank">https://etherpad.org</a><br>
-      Google Docs
+      <li>Google Docs
       <a aria-describedby="Link zu Google Docs" href="https://www.google.de/intl/de/docs/about/" target="_blank">https://www.google.de/intl/de/docs/about/</a><br>
-      ONLYOFFICE Docs
+      <li>ONLYOFFICE Docs
       <a aria-describedby="Link zu ONLYOFFICE" href="https://www.onlyoffice.com/de/" target="_blank">https://www.onlyoffice.com/de/</a><br>
-      Ziteboard
-      <a aria-describedby="Link zu Ziteboard" href="https://app.ziteboard.com" target="_blank">https://app.ziteboard.com</a>
+      <li>Ziteboard
+      <a aria-describedby="Link zu Ziteboard" href="https://app.ziteboard.com" target="_blank">https://app.ziteboard.com</a></ul>
     </p>
   </div>
 </div>
