@@ -1,7 +1,7 @@
 # Methoden
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-Kurz einführen - welche Methoden ...
+In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, die in der Lehre zum Einsatz kommen können. Das Methodenglossar ist alphabetisch geordnet und berücksichtigt verschiedene Einsatzszenarien (Einstieg, Erarbeitung, Sicherung, Feedback).
 
 <div>
   <button class="accordion">Ampelfeedback</button>
