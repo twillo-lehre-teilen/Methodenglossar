@@ -4,7 +4,7 @@
   
 Auf dieser Seite erhalten Sie einen Überblick über Methoden, die in den didaktischen Templates des OER-Portals <a aria-describedby="twillo Hompage" href="https://twillo.de">twillo</a> eingesetzt werden. Zudem beinhaltet diese Seite eine Sammlung an digitalen Tools und Anwendungen, die bei der Gestaltung von digital unterstützten Lehr-Lernszenarien nützlich sind. 
   
-Gern können Sie die Inalte dieser Seite im Rahmen der Lizenz <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">CC 0 (1.0)</a> nutzen, bearbeiten und erweitern. 
+Gern können Sie die Inhalte dieser Seite im Rahmen der Lizenz <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">CC 0 (1.0)</a> nutzen, bearbeiten und erweitern. 
   
 <figure>
   <img src="images/LineArt_person_with_confetti.svg" alt="Abb. "Person with confetti" von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. "Person with confetti" von Merle Zander und twillo, lizenziert unter CC BY (4.0)">
