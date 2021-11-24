@@ -9,25 +9,25 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
     <p>
       Bei dem Ampelfeedback handelt es sich um eine Methode, die darauf zielt, Meinungen, Sichtpunkte oder Bewertungen einer Gruppe zu einer bestimmten Fragestellung einzuholen. Sie  eignet sich zudem zur Entscheidungsfindung.  Die Teilnehmenden erhalten jeweils eine rote, gelbe und grüne Karte und sollen sich mit dieser zu einer Frage, These oder Annahme positionieren.  Die Wahl der grünen Karte, bedeutet Zustimmung oder positive Bewertung, die Wahl der roten Karte drückt Ablehnung oder negative Bewertung aus und die gelbe Karte zeigt Unentschlossenheit oder Verbesserungsvorschläge an (vgl. Szepansky 2010, wb-web o. J.).
     </p>
-<div>
+</div>
   <button class="accordion">Auswertungszielscheibe</button>
   <div class="panel">
     <p>
       Die Auswertungszielscheibe kann für Zwischenfeedback oder für die abschließende Reflexion einer Gruppenarbeit eingesetzt werden, um den gesamten gemeinsamen Arbeitsprozess zu reflektieren. Hierfür wird auf einer Pinnwand o.Ä. eine Zielscheibe bereitgestellt, auf der von 1 (Volltreffer = Mitte) bis 5 (kaum = Rand) verschiedene Aspekte der Gruppenarbeit bewertet werden können. Im ersten Schritt erstellen die Gruppenmitglieder die Bewertungen für sich selbst. Anschließend kann die Möglichkeit gegeben werden, sich über die vorgenommenen Bewertungen in Tandems oder Kleingruppen auszutauschen. Zuletzt werden die Bewertungen auf die gemeinsame Zielscheibe übertragen und gemeinsam ausgewertet (vgl. Frank/ Reinmuth o.J.).
     </p>
-<div>
+</div>
   <button class="accordion">Cluster</button>
   <div class="panel">
     <p>
       Bei der Clustering-Methode wird ein Oberbegriff bestimmt und mittels Brainstorming zunächst alle Begriffe gesammelt, die die Gruppe (oder die Einzelperson) mit dem Begriff assoziiert. Anschließend werden die Begriffe zum Oberbegriff und auch zueinander in Verbindung gesetzt und kategorisiert. Während bei der verwandten Mindmapping-Methode die Hierarchisierung der Begriffe wesentlich ist, zielt Clustering auf die Ideenfindung und die Verknüpfung von Ideen in Mustern. Der gesamte Prozess wird visuell an Tafel, Flipchart o.Ä. begleitet und festgehalten (vgl. Reich o.J.).
     </p> 
-<div>
+</div>
   <button class="accordion">Elavator Pitch</button>
   <div class="panel">
     <p>
       Beim Elevator Pitch (im Wissenschaftsbereich auch Scientific Pitch) wird die eigene Idee bzw. das eigene Forschungsvorhaben in kürzester Zeit (max. 3 Minuten) pointiert präsentiert. Die Methode soll einerseits Aufmerksamkeit und Neugierde wecken, kann andererseits aber auch dazu genutzt werden, Vorschläge zur Optimierung oder Neujustierung zu erhalten, z.B. zu gewählter Methodik und Instrumentarien (vgl. Wissenschaft im Dialog o.J.).
     </p> 
-<div>
+</div>
   <button class="accordion">Gallery Walk</button>
   <div class="panel">
     <p>
@@ -40,13 +40,12 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
       Bei einem Glossar handelt es sich um ein Verzeichnis/eine Liste, in dem Wörter definiert und erklärt werden. Glossare können selbstständig oder als Anlage zu einem bestimmten Doku-ment stehen (vgl. Bibliographisches Institut 2020).
       <figure style="align:middle;">
     </p>
- <div>
+ </div>
   <button class="accordion">Gruppenpuzzle (Jigsaw-Methode)</button>
   <div class="panel">
     <p>
       Gruppenpuzzles kommen zum Einsatz, um gemeinsam Wissen zu erarbeiten. Hierfür wird die Gesamtgruppe zunächst in gleichgroße Gruppen geteilt, die alle die gleiche Aufgabe mit den gleichen Teilaufgaben erhalten (Anzahl der Teilaufgaben = Anzahl der Gruppenmitglieder). In den Gruppen wird für jede Teilaufgabe ein Gruppenmitglied als Expert*in bestimmt, das die Aufgabe zunächst individuell bearbeitet und sich anschließend mit den entsprechenden Expert*innen der anderen Gruppen darüber austauscht. Danach kehren alle in ihre Ursprungsgruppen zurück und geben ihre Lösung der Teilaufgabe und den Austausch dazu in der Expert*innengruppe wider. Abschließend setzt jede Gruppe die Lösungen ihrer einzelnen Gruppenmitglieder zu einer Gesamtlösung der Aufgabe zusammen (vgl. Universität Bremen o.J.).
-    </p>    
-  </div>     
+    </p>         
   </div>
   <button class="accordion">Fischräten-Diagramm</button>
   <div class="panel">
@@ -59,7 +58,7 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
         <br>
       Zunächst wird die Problemstellung auf den Fischkopf geschrieben. Anschließend werden innerhalb eines Brainstormings Hauptursachen, die das Problem begünstigt haben könnten, gefunden und an den großen Gräten vermerkt. Nebenursachen  werden den Hauptursachen zugeordnet und an feineren Gräten (Verästelungen) notiert (vgl. Hiestand o.J.).
     </p>
-<div>
+</div>
   <button class="accordion">Fishbowl-Diskussion</button>
   <div class="panel">
     <p>
@@ -140,6 +139,7 @@ Eine Auswahl an freier Software, die sich speziell zur Erstellung und gemeinsame
   <div class="panel">
     <p>
       Eine Zettelwand zielt darauf, Ergebnisse festzuhalten, zu visualisieren und zu clustern. In einem ersten Schritt werden unterschiedliche Themen bestimmt und an der Zettelwand festgehalten. In einem zweiten Schritt erfolgt eine Ideensammlung (z.B. entlang von Leitfragen). Die Ergebnisse der Ideensammlung werden notiert und an der Zettelwand dem jeweils passenden Thema zugeordnet. Sofern die Arbeit mit der Zettelwand in einer Gruppe geschieht, werden die Ideen bei der Zuordnung zu einem Thema kurz erläutert und diskutiert. Kann eine Notiz keinem Thema zugeordnet werden, wird ein neues Thema eröffnet (vgl. Hiestand o.J.).
+      </p>
   </div>
 </div>
 
