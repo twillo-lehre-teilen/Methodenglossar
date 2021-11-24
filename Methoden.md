@@ -15,7 +15,7 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
     <p>
       Die Auswertungszielscheibe kann für Zwischenfeedback oder für die abschließende Reflexion einer Gruppenarbeit eingesetzt werden, um den gesamten gemeinsamen Arbeitsprozess zu reflektieren. Hierfür wird auf einer Pinnwand o.Ä. eine Zielscheibe bereitgestellt, auf der von 1 (Volltreffer = Mitte) bis 5 (kaum = Rand) verschiedene Aspekte der Gruppenarbeit bewertet werden können. Im ersten Schritt erstellen die Gruppenmitglieder die Bewertungen für sich selbst. Anschließend kann die Möglichkeit gegeben werden, sich über die vorgenommenen Bewertungen in Tandems oder Kleingruppen auszutauschen. Zuletzt werden die Bewertungen auf die gemeinsame Zielscheibe übertragen und gemeinsam ausgewertet (vgl. Frank/ Reinmuth o.J.).
     </p>
- <div>
+<div>
   <button class="accordion">Cluster</button>
   <div class="panel">
     <p>
