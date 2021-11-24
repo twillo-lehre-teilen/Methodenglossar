@@ -26,26 +26,7 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
   <div class="panel">
     <p>
       Beim Elevator Pitch (im Wissenschaftsbereich auch Scientific Pitch) wird die eigene Idee bzw. das eigene Forschungsvorhaben in kürzester Zeit (max. 3 Minuten) pointiert präsentiert. Die Methode soll einerseits Aufmerksamkeit und Neugierde wecken, kann andererseits aber auch dazu genutzt werden, Vorschläge zur Optimierung oder Neujustierung zu erhalten, z.B. zu gewählter Methodik und Instrumentarien (vgl. Wissenschaft im Dialog o.J.).
-    </p> 
-</div>
-  <button class="accordion">Gallery Walk</button>
-  <div class="panel">
-    <p>
-      Der Gallery Walk dient der Präsentation und Diskussion von (Zwischen-)Ergebnissen einer Einzel- oder Gruppenarbeit. Die visualisierten (Zwischen-)Ergebnisse werden ähnlich der Ausstellung in einer Gallerie auf Postern im Raum verteilt aufgehängt. Die gesamte Gruppe läuft gemeinsam von Poster zu Poster, wobei jedes Poster kurz erläutert und anschließend diskutiert wird. Feedback und Anregungen fließen in die Weiterführung der Einzel- oder Gruppenarbeit ein (vgl. Sonntag et. al 2016).
-    </p>    
-  </div>
-  <button class="accordion">Glossar</button>
-  <div class="panel">
-    <p>
-      Bei einem Glossar handelt es sich um ein Verzeichnis/eine Liste, in dem Wörter definiert und erklärt werden. Glossare können selbstständig oder als Anlage zu einem bestimmten Doku-ment stehen (vgl. Bibliographisches Institut 2020).
-      <figure style="align:middle;">
-    </p>
- </div>
-  <button class="accordion">Gruppenpuzzle (Jigsaw-Methode)</button>
-  <div class="panel">
-    <p>
-      Gruppenpuzzles kommen zum Einsatz, um gemeinsam Wissen zu erarbeiten. Hierfür wird die Gesamtgruppe zunächst in gleichgroße Gruppen geteilt, die alle die gleiche Aufgabe mit den gleichen Teilaufgaben erhalten (Anzahl der Teilaufgaben = Anzahl der Gruppenmitglieder). In den Gruppen wird für jede Teilaufgabe ein Gruppenmitglied als Expert*in bestimmt, das die Aufgabe zunächst individuell bearbeitet und sich anschließend mit den entsprechenden Expert*innen der anderen Gruppen darüber austauscht. Danach kehren alle in ihre Ursprungsgruppen zurück und geben ihre Lösung der Teilaufgabe und den Austausch dazu in der Expert*innengruppe wider. Abschließend setzt jede Gruppe die Lösungen ihrer einzelnen Gruppenmitglieder zu einer Gesamtlösung der Aufgabe zusammen (vgl. Universität Bremen o.J.).
-    </p>         
+    </p>          
   </div>
   <button class="accordion">Fischräten-Diagramm</button>
   <div class="panel">
@@ -63,7 +44,32 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
   <div class="panel">
     <p>
       Bei der Fishbowl-Diskussion steht im Zentrum ein Thema, zu dem die Gruppe sich in eine Pro- und eine Contragruppe aufteilt. Nachdem sich jede Gruppe untereinander zu ihren Argumenten ausgetauscht hat, bestimmt jede Gruppe ein*e Sprecher*in, der*die sich mit einem*einer Moderator*in in einem Stuhlkreis zusammenfindet (Innenkreis). Im Innenkreis steht ein freier Stuhl für die Beteiligung beider restlichen Gruppen, die um den Innenkreis herum einen zweiten Stuhlkreis bilden (Außenkreis). Im Innenkreis wird das Thema diskutiert, und der Außenkreis beteiligt sich, indem ein Gruppenmitglied sich auf den freien Stuhl setzt, sein Argument vorbringt und in den Außenkreis zurückkehrt. Der Außenkreis entscheidet per Abstimmung, wann die Diskussion beendet wird (vgl. Universität Oldenburg o.J.). Wenn die Methode online mit einem Videokonferenztool angewandt wird, kann die Umsetzung dahingehend abgewandelt werden, dass hier der Innenkreis durch eingeschaltete Videokameras ersetzt wird. Jeder Beitrag durch den Außenkreis wird durch das Ein- und Ausschalten der Videokamera begleitet.
-    </p>        
+    </p> 
+ </div>
+  <button class="accordion">Gallery Walk</button>
+  <div class="panel">
+    <p>
+      Der Gallery Walk dient der Präsentation und Diskussion von (Zwischen-)Ergebnissen einer Einzel- oder Gruppenarbeit. Die visualisierten (Zwischen-)Ergebnisse werden ähnlich der Ausstellung in einer Gallerie auf Postern im Raum verteilt aufgehängt. Die gesamte Gruppe läuft gemeinsam von Poster zu Poster, wobei jedes Poster kurz erläutert und anschließend diskutiert wird. Feedback und Anregungen fließen in die Weiterführung der Einzel- oder Gruppenarbeit ein (vgl. Sonntag et. al 2016).
+    </p>    
+  </div>
+  <button class="accordion">Glossar</button>
+  <div class="panel">
+    <p>
+      Bei einem Glossar handelt es sich um ein Verzeichnis/eine Liste, in dem Wörter definiert und erklärt werden. Glossare können selbstständig oder als Anlage zu einem bestimmten Doku-ment stehen (vgl. Bibliographisches Institut 2020).
+      <figure style="align:middle;">
+    </p>
+ </div>
+  <button class="accordion">Gruppenpuzzle (Jigsaw-Methode)</button>
+  <div class="panel">
+    <p>
+      Gruppenpuzzles kommen zum Einsatz, um gemeinsam Wissen zu erarbeiten. Hierfür wird die Gesamtgruppe zunächst in gleichgroße Gruppen geteilt, die alle die gleiche Aufgabe mit den gleichen Teilaufgaben erhalten (Anzahl der Teilaufgaben = Anzahl der Gruppenmitglieder). In den Gruppen wird für jede Teilaufgabe ein Gruppenmitglied als Expert*in bestimmt, das die Aufgabe zunächst individuell bearbeitet und sich anschließend mit den entsprechenden Expert*innen der anderen Gruppen darüber austauscht. Danach kehren alle in ihre Ursprungsgruppen zurück und geben ihre Lösung der Teilaufgabe und den Austausch dazu in der Expert*innengruppe wider. Abschließend setzt jede Gruppe die Lösungen ihrer einzelnen Gruppenmitglieder zu einer Gesamtlösung der Aufgabe zusammen (vgl. Universität Bremen o.J.).
+    </p>
+  </div>
+  <button class="accordion">Jeopardy - Wissensabfrage</button>
+  <div class="panel">
+    <p>
+      Weitere Infos folgen zeitnah. Sie wollen das Methodenglossar ergänzen? Dann kontaktieren Sie den Support support.twillo@tib.eu und geben in der Betreffzeile der Email "Mitarbeit am Methodenglossar" an. <li><a href="https://www.twillo.de/edu-sharing/components/render/83a2d5c4-c874-4151-bf0c-c86ccab7a67f" target="_blank">Template für das Lernspiel Jeopardy  im Dateiformat pptx</a></li>
+    </p>
   </div>
   <button class="accordion">Karikatur-Analyse</button>
   <div class="panel">
@@ -109,10 +115,22 @@ Eine Auswahl an freier Software, die sich speziell zur Erstellung von Quizzen un
 </ul>
    </p>
  </div>
+  <button class="accordion">Reality Check</button>
+  <div class="panel">
+    <p>
+      Ein Reality Check ist die Überprüfung eines Vorhabens oder Komponenten eines Vorhabens, v.a. im Hinblick auf Stichhaltigkeit und Machbarkeit. Bei der Methode hält entweder jede*r Studierende oder jede hierfür gebildete Gruppe schriftlich fest, was in der Gesamtgruppe diskutiert und ggf. weiterentwickelt werden soll. Im Fall des Forschenden Lernens ist das zumeist eine Forschungsidee, eine Fragestellung oder ein Forschungsdesign. Zur Entwicklung eines Forschungsdesigns können folgende Leitfragen helfen, eine (vorläufige) Forschungsfrage in ein Forschungsdesign zu überführen: Welche Untersuchungsgegenstände werden untersucht und warum genau diese? Welche Methoden und Instrumente werden verwendet? Wie erfolgt die Auswertung der Ergebnisse (vgl. Sonntag et al 2016)?
+      </p>
+  </div>
   <button class="accordion">Siebensprung</button>
   <div class="panel">
     <p>
       Der sogenannte Siebensprung ist eine zentrale Methode des Problembasiertes Lernens. Ziel der Methode ist eine tiefgehende und selbstgesteuerte Auseinandersetzung der Lernenden mit komplexen, praxisrelevanten Zusammenhängen (vgl. u. a. Weber 2004). Die Lernenden werden mit einem Problem konfrontiert, das sie in sieben Schritten in Einzel- und Gruppenarbeit analysieren und bearbeiten. Für die Problemanalyse und -lösung relevante Wissensbestände, die über das Vorwissen hinausgehen, eignen sich die Lernenden im Prozess aktiv selbst an (vgl. Hiestand et al. 2020, Konermann 2016).
+      </p>
+  </div>
+  <button class="accordion">Think-Pair-Share</button>
+  <div class="panel">
+    <p>
+      Methode für Großgruppen. Weitere Infos folgen. Sie wollen das Methodenglossar ergänzen? Dann kontaktieren Sie den Support support.twillo@tib.eu und geben in der Betreffzeile der Email "Mitarbeit am Methodenglossar" an.
       </p>
  </div>
   <button class="accordion">Thesenpapier</button>
@@ -123,6 +141,18 @@ Bei einem Thesenpapier handelt es sich um eine strukturierte Darstellung einer o
 Neben der Aufführung der These(n), können Thesenpapiere Begründungen und Kommentare enthalten, die die These(n) entweder stützen oder angreifen. Um wissenschaftliche Standards zu erfüllen, sollten sie stets durch Literaturangaben belegt sein. Auch andere Belege (z. B. Fallbeispiele, Beobachtungen und eigene Erfahrungen) sind möglich (vgl. Universität Bielefeld 2011, Frank/Haacke/Lahm 2007, Kruse 2004).
       </p>
  </div>
+  <button class="accordion">WebQuest</button>
+  <div class="panel">
+    <p>
+      Ein WebQuest ist ein über das Internet oder Intranet bereitgestelltes Lehr-Lernarrangement, in dem die Lernenden v.a. mit Hilfe von Informationen aus dem Internet Aufgaben bearbeiten. Zentrale Bedeutung kommt hierbei der ungelenkten, eigenständigen Arbeit der Lernenden zu. Die Methode wurde 1995 von Bernie Dodge und Tom March an der San Diego State University entwickelt (vgl. u.a. Dodge o.J.).
+      </p>
+</div>
+  <button class="accordion">Wer wird Millionär - Wissensabfrage</button>
+  <div class="panel">
+    <p>
+      Weitere Infos folgen zeitnah. Sie wollen das Methodenglossar ergänzen? Dann kontaktieren Sie den Support support.twillo@tib.eu und geben in der Betreffzeile der Email "Mitarbeit am Methodenglossar" an. <li><a href="https://www.patternpool.de/pattern/abstimmungssysteme-wer-wird-millionaer/" target="_blank">Pattern aus Patternpool</a></li>
+      </p>
+</div>
   <button class="accordion">Wiki</button>
   <div class="panel">
     <p>
