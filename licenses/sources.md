@@ -25,7 +25,7 @@ der (hochschulischen) Ausbildung. In: Dietl, S. F./Schmidt, H./Weiß, R.Wittwer,
 
 <b>Reich, K. (2017):</b> Methodenpool, http://methodenpool.uni-koeln.de (04.01.2021)
 
-<b>Rimkus, Marco (2018):</b> Abstimmungssysteme: Wer wird Millionär?. PatternPool. doi: 10.25592/pattern.011
+<b>Rimkus, Marco (2018):</b> Abstimmungssysteme: Wer wird Millionär? https://doi.org/10.25592/pattern.011
 
 <b>Scholz, L. (2018):</b> Methoden-Kiste – Methoden für Schule und Bildungsarbeit. 8. Auflage. Bundeszentrale für politische Bildung (Hrsg.). Bonn.
 
