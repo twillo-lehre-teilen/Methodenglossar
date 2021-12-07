@@ -68,7 +68,12 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
   <button class="accordion">Jeopardy - Wissensabfrage</button>
   <div class="panel">
     <p>
-      Weitere Infos folgen zeitnah. Sie wollen das Methodenglossar ergänzen? Dann kontaktieren Sie den Support support.twillo@tib.eu und geben in der Betreffzeile der Email "Mitarbeit am Methodenglossar" an. <li><a href="https://www.twillo.de/edu-sharing/components/render/83a2d5c4-c874-4151-bf0c-c86ccab7a67f" target="_blank">Template für das Lernspiel Jeopardy  im Dateiformat pptx</a></li>
+      Jeopardy ist ein umgekehrtes Quiz: Es werden Antworten vorgegeben, zu denen eine passende Frage gefunden werden muss.
+    <br>Eine unter CC0 lizenzierte Vorlage finden Sie hier: <a href="https://www.twillo.de/edu-sharing/components/render/83a2d5c4-c874-4151-bf0c-c86ccab7a67f" target="_blank">Template für das Lernspiel Jeopardy im Dateiformat pptx</a></li>
+    <br>Das Spielfeld ist in unterschiedliche Kategorien/Themen unterteilt, die wiederum in verschiedene Punktbeträge aufgeteilt sind (z.B. von 100 bis 800). Je mehr Punkte gewonnen werden können, desto schwieriger die Frage.
+Das Los entscheidet, wer beginnen darf. Der:die erste Spieler:in/ das erste Team sucht sich eine Kategorie und einen Punktbetrag aus (z.B. Kategorie A 200). Das entsprechende Feld wird durch einen Klick geöffnet. Eine Antwort erscheint. Alle Spieler:innen/ Teams suchen eine passende Frage zu der gezeigten Antwort. Der:die Spieler:in/ das Team, der:dem zuerst eine passende Frage einfällt, erhält die für die Kategorie vergebene Punktzahl und darf sich (nach Rückkehr zum Spielfeld) die nächste Kategorie und einen Punktebetrag aussuchen.
+Das Spiel endet, wenn alle 20 Punktefelder gespielt wurden. Der:die Spieler:in/ das Team mit den meisten Punkten gewinnt.
+  <br><a href="https://www.twillo.de/edu-sharing/components/render/83a2d5c4-c874-4151-bf0c-c86ccab7a67f" target="_blank">Jeopardy</a></li> von Britta Beutnagel, bearbeitet durch twillo (textliche Anpassung), lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" target="_blank">CC 0</a></li>.
     </p>
   </div>
   <button class="accordion">Karikatur-Analyse</button>
@@ -127,18 +132,18 @@ Eine Auswahl an freier Software, die sich speziell zur Erstellung von Quizzen un
       Der sogenannte Siebensprung ist eine zentrale Methode des Problembasiertes Lernens. Ziel der Methode ist eine tiefgehende und selbstgesteuerte Auseinandersetzung der Lernenden mit komplexen, praxisrelevanten Zusammenhängen (vgl. u. a. Weber 2004). Die Lernenden werden mit einem Problem konfrontiert, das sie in sieben Schritten in Einzel- und Gruppenarbeit analysieren und bearbeiten. Für die Problemanalyse und -lösung relevante Wissensbestände, die über das Vorwissen hinausgehen, eignen sich die Lernenden im Prozess aktiv selbst an (vgl. Hiestand et al. 2020, Konermann 2016).
       </p>
   </div>
-  <button class="accordion">Think-Pair-Share</button>
-  <div class="panel">
-    <p>
-      Die Methode setzt sich aus drei Phasen zusammen und kombiniert individuelle und kooperative Lernphasen: Die erste Phase besteht in der individuellen Auseinandersetzung mit einer Aufgabe (think), das in Einzelarbeit erfolgt. In der zweiten Phase tauschen sich je zwei Partner:innen über die Aufgabe aus (pair). stellen sich ihre Denk- und Lösungsansätze gegenseitig vor und erarbeiten ein Zwischenergebnis beider Leistungen. Die dritte Phase ist der gegenseitigen Präsentation und Diskussion in einer Gruppe gewidmet (share).
-      </p>
- </div>
   <button class="accordion">Thesenpapier</button>
   <div class="panel">
     <p>
       Thesen sind prägnant formulierte Behauptungssätze, die durch Argumente begründet und gegen Einwände verteidigt werden können. Gleichzeitig sind Thesen jedoch auch grundsätzlich durch Argumente widerlegbar. Gut formulierte Thesen provozieren Rückfragen und Widerspruch.
 Bei einem Thesenpapier handelt es sich um eine strukturierte Darstellung einer oder mehrere Thesen. Es kann unterschiedlichen Zwecken dienen (z.B. Unterstützung eines Referats/Vortrags, Basis einer mündlichen Prüfung, Darlegung einer Argumentationslinie).  
 Neben der Aufführung der These(n), können Thesenpapiere Begründungen und Kommentare enthalten, die die These(n) entweder stützen oder angreifen. Um wissenschaftliche Standards zu erfüllen, sollten sie stets durch Literaturangaben belegt sein. Auch andere Belege (z. B. Fallbeispiele, Beobachtungen und eigene Erfahrungen) sind möglich (vgl. Universität Bielefeld 2011, Frank/Haacke/Lahm 2007, Kruse 2004).
+      </p>
+ </div>
+  <button class="accordion">Think-Pair-Share</button>
+  <div class="panel">
+    <p>
+      Die Methode setzt sich aus drei Phasen zusammen und kombiniert individuelle und kooperative Lernphasen: Die erste Phase besteht in der individuellen Auseinandersetzung mit einer Aufgabe (think), das in Einzelarbeit erfolgt. In der zweiten Phase tauschen sich je zwei Partner:innen über die Aufgabe aus (pair). stellen sich ihre Denk- und Lösungsansätze gegenseitig vor und erarbeiten ein Zwischenergebnis beider Leistungen. Die dritte Phase ist der gegenseitigen Präsentation und Diskussion in einer Gruppe gewidmet (share) (vgl. Universität Oldenburg o.J.).
       </p>
  </div>
   <button class="accordion">WebQuest</button>
