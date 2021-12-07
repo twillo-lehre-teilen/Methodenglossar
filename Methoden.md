@@ -178,6 +178,8 @@ Eine Auswahl an freier Software, die sich speziell zur Erstellung und gemeinsame
   </div>
 </div>
 
+Sie wollen das Methodenglossar ergänzen? Dann kontaktieren Sie den Support support.twillo@tib.eu und geben in der Betreffzeile der Email "Mitarbeit am Methodenglossar" an.
+
 <script>
   /* accordion script */
   var acc = document.getElementsByClassName("accordion");
