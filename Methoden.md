@@ -130,7 +130,7 @@ Eine Auswahl an freier Software, die sich speziell zur Erstellung von Quizzen un
   <button class="accordion">Think-Pair-Share</button>
   <div class="panel">
     <p>
-      Methode für Großgruppen. Weitere Infos folgen. Sie wollen das Methodenglossar ergänzen? Dann kontaktieren Sie den Support support.twillo@tib.eu und geben in der Betreffzeile der Email "Mitarbeit am Methodenglossar" an.
+      Die Methode setzt sich aus drei Phasen zusammen und kombiniert individuelle und kooperative Lernphasen: Die erste Phase besteht in der individuellen Auseinandersetzung mit einer Aufgabe (think), das in Einzelarbeit erfolgt. In der zweiten Phase tauschen sich je zwei Partner:innen über die Aufgabe aus (pair). stellen sich ihre Denk- und Lösungsansätze gegenseitig vor und erarbeiten ein Zwischenergebnis beider Leistungen. Die dritte Phase ist der gegenseitigen Präsentation und Diskussion in einer Gruppe gewidmet (share).
       </p>
  </div>
   <button class="accordion">Thesenpapier</button>
@@ -150,7 +150,7 @@ Neben der Aufführung der These(n), können Thesenpapiere Begründungen und Komm
   <button class="accordion">Wer wird Millionär - Wissensabfrage</button>
   <div class="panel">
     <p>
-      Weitere Infos folgen zeitnah. Sie wollen das Methodenglossar ergänzen? Dann kontaktieren Sie den Support support.twillo@tib.eu und geben in der Betreffzeile der Email "Mitarbeit am Methodenglossar" an. <li><a href="https://www.patternpool.de/pattern/abstimmungssysteme-wer-wird-millionaer/" target="_blank">Pattern aus Patternpool</a></li>
+      Die Methode besteht in einem Abstimmungssystem. Es werden Kleingruppen gebildet (ca. 8 Personen), die jeweils als Team Karten (A-D) erhalten. Die Lehrperson hat auf einem Foliensatz verschiedene Fragen zum Thema notiert und gibt jeweils vier Antwortmöglichkeiten vor, von denen eine zutrifft. Jede Kleingruppe stimmt sich ab und einigt sich auf eine Antwort. Nach Aufforderung durch die Lehrperson halten alle Gruppen ihre ausgewählte Antwortkarte gleichzeitig hoch. Die richtige Lösung ergibt einen Punkt. Die Gruppe mit den meisten Punkten gewinnt (vgl. Rimkus 2018).
       </p>
 </div>
   <button class="accordion">Wiki</button>
