@@ -26,15 +26,21 @@ In der Übersicht haben wir Anwendungen für Sie zusammengestellt, die zu bestim
       <a aria-describedby="Link zu Pain.NET" href="https://www.getpaint.net/" target="_blank">https://www.getpaint.net</a></ul>
     </p>
   </div>
-  <button class="accordion">Mind-Mapping-Software</button>
+  <button class="accordion">Brainstorming- und Mindmapping-Software</button>
   <div class="panel">
     <p>
-      <ul><li>InVision Freehand
+      <ul><li>Padlet
+      <a aria-describedby="Link zu Padlet" href="https://padlet.com/" target="_blank">https://padlet.com/</a><br>
+      <li>Conceptboard
+      <a aria-describedby="Link zu Conceptboard" href="https://conceptboard.com/de/" target="_blank">https://conceptboard.com/de/</a><br>
+      <li>InVision Freehand
       <a aria-describedby="Link zu InVision Freehand" href="https://www.invisionapp.com/" target="_blank">https://www.invisionapp.com</a><br>
       <li>MindMeister
       <a aria-describedby="Link zu MindMeister" href="https://www.mindmeister.com" target="_blank">https://www.mindmeister.com</a><br>
       <li>Miro
       <a aria-describedby="Link zu Miro" href="https://miro.com" target="_blank">https://miro.com</a><br>
+      <li>Flinga
+      <a aria-describedby="Link zu Flinga" href="https://flinga.fi/" target="_blank">https://flinga.fi/</a><br>
       <li>Ziteboard
       <a aria-describedby="Link zu Ziteboard" href="https://app.ziteboard.com" target="_blank">https://app.ziteboard.com</a></ul>
     </p>
