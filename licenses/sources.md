@@ -25,11 +25,15 @@ der (hochschulischen) Ausbildung. In: Dietl, S. F./Schmidt, H./Weiß, R.Wittwer,
 
 <b>Reich, K. (2017):</b> Methodenpool, http://methodenpool.uni-koeln.de (04.01.2021)
 
+<b>Rimkus, Marco (2018):</b> Abstimmungssysteme: Wer wird Millionär?. PatternPool. doi: 10.25592/pattern.011
+
 <b>Scholz, L. (2018):</b> Methoden-Kiste – Methoden für Schule und Bildungsarbeit. 8. Auflage. Bundeszentrale für politische Bildung (Hrsg.). Bonn.
 
 <b>Szepansky, W.-P. (2010):</b> Souverän Seminare leiten (2. Aufl.). Bielefeld.
 
 <b>Universität Bielefeld (Hrsg.) (2011):</b> Leitfaden zur Erstellung eines Thesenpapiers, https://www.uni-bielefeld.de/erziehungswissenschaft//scs/lehrende/lehrmethoden/thesenpapier.html (05.01.2021).
+
+<b>Universität Oldenburg (o.J.):</b> Think-pair-share, https://www.methodenkartei.uni-oldenburg.de/uni_methode/think-pair-share/ (03.12.2021).
 
 <b>Wb-web (Hrsg.) (o.J.):</b> Handlungsanleitung Ampel-Feedback, https://wb-web.de/material/diagnose/ampel-feedback.html (11.01.2021).
 
