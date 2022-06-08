@@ -22,7 +22,7 @@ In diesem Abschnitt erhalten Sie einen Überblick über Lehr- und Lernmethoden, 
       Bei der Clustering-Methode wird ein Oberbegriff bestimmt und mittels Brainstorming zunächst alle Begriffe gesammelt, die die Gruppe (oder die Einzelperson) mit dem Begriff assoziiert. Anschließend werden die Begriffe zum Oberbegriff und auch zueinander in Verbindung gesetzt und kategorisiert. Während bei der verwandten Mindmapping-Methode die Hierarchisierung der Begriffe wesentlich ist, zielt Clustering auf die Ideenfindung und die Verknüpfung von Ideen in Mustern. Der gesamte Prozess wird visuell an Tafel, Flipchart o.Ä. begleitet und festgehalten (vgl. Reich o.J.).
     </p> 
 </div>
-  <button class="accordion">Elavator Pitch</button>
+  <button class="accordion">Elevator Pitch</button>
   <div class="panel">
     <p>
       Beim Elevator Pitch (im Wissenschaftsbereich auch Scientific Pitch) wird die eigene Idee bzw. das eigene Forschungsvorhaben in kürzester Zeit (max. 3 Minuten) pointiert präsentiert. Die Methode soll einerseits Aufmerksamkeit und Neugierde wecken, kann andererseits aber auch dazu genutzt werden, Vorschläge zur Optimierung oder Neujustierung zu erhalten, z.B. zu gewählter Methodik und Instrumentarien (vgl. Wissenschaft im Dialog o.J.).
